@@ -29,19 +29,19 @@ To begin with/first of all/To start with/..
 Given that/Despite/In spite of/ Eventhough/ Although
 Finally/Because of this/ In the end/ From this experience/ Thanks to this/ This experience taught me/ Lesson learned..
 
-Speaking Part 3: Describing a scene
-
-The picture clearly potrays a scence where..
-
-Furthermore..
-
-In the top/bottom/left/top-right/background/foreground/..
-
-Overall,..
-
-Be as descriptive as possible by using appropriate nouns, adjectives and adverbs.
-Present continuous tense to describe people and on going actions
-Use prepositions correctly: in /on / at / next to / beside / above / below / infront of / facing / across from..
+        Speaking Part 3: Describing a scene
+        
+        The picture clearly dipicts a scence where..
+        
+        Furthermore..
+        
+        In the top/bottom/left/top-right/background/foreground/..
+        
+        Overall,..
+        
+        Be as descriptive as possible by using appropriate nouns, adjectives and adverbs.
+        Present continuous tense to describe people and on going actions
+        Use prepositions correctly: in /on / at / next to / beside / above / below / infront of / facing / across from..
 
 
 Speaking Part 4: Predicting next steps
