@@ -19,7 +19,6 @@
 * However <-> Nonetheless, Nevertheless, Although
 * Concluding: Hence, In conclusion, Based on that, That's why, Conclusively, Therefore
 
-
 **Speaking Part 1: Giving Advice**
 
 Hi Maria, how's life? It's been an eternity since I last spoke with you!
@@ -39,8 +38,9 @@ Firstly, I strongly suggest you to..
     My main recommendation would be/ is to...
     For -ve: Having said that, I think you should avoid...point...
 
-For your own sake,  i really think you should take my suggestions into account.
-Take care!
+For your own sake, I really think you should take my suggestions into account. OR
+<br/> I hope my suggestions will be helpful to you.
+<br/> Take care!
 
 Speaking Part 2: Talking about a personal experience
 
