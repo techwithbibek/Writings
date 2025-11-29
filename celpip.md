@@ -10,7 +10,7 @@
 * Too many "and" instead use: "as well as", "along with"
 * Too many "so" instead use: "Therefore", "Thus", "Hence", "Consequently". Informal: "That's why", "due to that" 
 
-**Include:**
+**Do:**
 * Emphasise things "adjectives" "key words"
 * Be expressive 
 * Rising and falling tone
@@ -18,6 +18,7 @@
 * If you are adding things: Furthermore, Likewise, Also, Additionally, Accordingly, On top of that, What's more..
 * However <-> Nonetheless, Nevertheless, Although
 * Concluding: Hence, In conclusion, Based on that, That's why, Conclusively, Therefore
+* Support ideas to expand your main point/ argument. Give examples.
 
 **Speaking Part 1: Giving Advice**
 
@@ -48,9 +49,9 @@ Time sequences: what? when? where? who? why? how? So, that's why..
 <br/> Time sequence connectors: First of all, To start with, and then, next, after/afterwards, second/third/fourth/etc, In the end, Finally, Because of this/thanks to this
 
 There are many and one of them is ...
-To begin with/first of all/To start with/..
-Given that/Despite/In spite of/ Eventhough/ Although
-Finally/Because of this/ In the end/ From this experience/ Thanks to this/ This experience taught me/ Lesson learned..
+<br/>To begin with/first of all/To start with/..
+<br/>Given that/Despite/In spite of/ Eventhough/ Although
+<br/>Finally/Because of this/ In the end/ From this experience/ Thanks to this/ This experience taught me/ Lesson learned..
 
 **Speaking Part 3: Describing a scene**
         
