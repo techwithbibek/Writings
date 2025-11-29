@@ -42,42 +42,41 @@ For your own sake, I really think you should take my suggestions into account. O
 <br/> I hope my suggestions will be helpful to you.
 <br/> Take care!
 
-Speaking Part 2: Talking about a personal experience
+**Speaking Part 2: Talking about a personal experience**
 
 Time sequences: what? when? where? who? why? how? So, that's why..
-Time sequence connectors: First of all, To start with, and then, next, after/afterwards, second/third/fourth/etc, In the end, Finally, Because of this/thanks to this
+<br/> Time sequence connectors: First of all, To start with, and then, next, after/afterwards, second/third/fourth/etc, In the end, Finally, Because of this/thanks to this
 
-Template:
 There are many and one of them is ...
 To begin with/first of all/To start with/..
 Given that/Despite/In spite of/ Eventhough/ Although
 Finally/Because of this/ In the end/ From this experience/ Thanks to this/ This experience taught me/ Lesson learned..
 
-        Speaking Part 3: Describing a scene
+**Speaking Part 3: Describing a scene**
         
-        The picture clearly dipicts a scence where..
+The picture clearly dipicts a scence where..
         
-        Furthermore..
+Furthermore..
         
-        In the top/bottom/left/top-right/background/foreground/..
+In the top/bottom/left/top-right/background/foreground/.. OR Not only does foreground show..., but background cleary has..
         
-        Overall,..
+Overall,..
         
-        Be as descriptive as possible by using appropriate nouns, adjectives and adverbs.
-        Present continuous tense to describe people and on going actions
-        Use prepositions correctly: in /on / at / next to / beside / above / below / infront of / facing / across from..
+* Be as descriptive as possible by using appropriate nouns, adjectives and adverbs.
+* Present continuous tense to describe people and on going actions
+* Use prepositions correctly: in /on / at / next to / beside / above / below / infront of / facing / across from..
 
 
-Speaking Part 4: Predicting next steps
+**Speaking Part 4: Predicting next steps**
 
 Most likely in the next little while,..
-Likewise,
-I can also reasonably assume that..
-Alright! those are some of the things that I think will happen next.
+<br/> Likewise,
+<br/> I can also reasonably assume that..
+<br/> Alright! those are some of the things that I think will happen next.
 
 Future tense (be going to+ verb) will +verb, be about to + verb , might
 
-Speaking 4: Comparing and Persuading
+**Speaking 5: Comparing and Persuading**
 
 Hi/Hey/Hello... Nice to see you again! 
 
