@@ -16,6 +16,8 @@
 * Rising and falling tone
 * Use simple, complex and compound sentences : since, despite, however
 * If you are adding things: Furthermore, Likewise, Also, Additionally, Accordingly, On top of that, What's more..
+* However <-> Nonetheless, Nevertheless, Although
+* Concluding: Hence, In conclusion, Based on that, That's why, Conclusively, Therefore
 
 
 **Speaking Part 1: Giving Advice**
