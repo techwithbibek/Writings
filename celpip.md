@@ -1,11 +1,33 @@
-Speaking part 1: Giving advice
+# CELPIP SPEAKING
+
+## Notes
+**Avoid:**
+* Umm
+* you know
+* etc
+* like that; e.g., Cars like that..
+* Monotone
+* Too many "and" instead use: "as well as", "along with"
+* Too many "so" instead use: "Therefore", "Thus", "Hence", "Consequently". Informal: "That's why", "due to that" 
+
+**Include:**
+* Emphasise things "adjectives" "key words"
+* Be expressive 
+* Rising and falling tone
+* Use simple, complex and compound sentences : since, despite, however
+* If you are adding things: Furthermore, Likewise, Also, Additionally, Accordingly, On top of that, What's more..
+
+
+**Speaking Part 1: Giving Advice**
 
 Hi Maria, how's life? It's been an eternity since I last spoke with you!
-Listen, I heard that you were going through/dealing with/ etc. I thought I would provide my input to you based on my own experience.
+Listen, I heard that you were going through/dealing with/ etc. 
+<br />I thought I'd provide my input to you based on my own experience. OR
+<br />I thought I'd give you a few pieces of advice based on my own experience. 
 
-Firstly, I strongly suggest you to
-Secondly, I reccomend 
-Thirdly, If I were you, I would.. I think must/should/need to
+Firstly, I strongly suggest you to..
+<br />Secondly, I reccommend you to... 
+<br />Thirdly, If I were you, I would.. ORI think must/should/need to
 
     Make sure you don't..
     Stay away from..
