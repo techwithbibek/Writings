@@ -99,3 +99,80 @@
 25. **Articulate** – able to express ideas clearly
 
 * He is very articulate when speaking.
+
+  
+26. **Ambiguous**
+
+Meaning: unclear; having more than one possible meaning
+* His message was ambiguous, so no one knew what he meant.
+
+27. **Astounding**
+
+Meaning: very surprising; amazing
+* Example: The magician’s performance was absolutely astounding.
+
+28. **Bewildering**
+
+Meaning: very confusing; hard to understand
+* Example: The city’s subway system is bewildering for visitors.
+
+29. **Elaborate**
+
+Meaning: very detailed; carefully planned
+* Example: They created an elaborate plan for the event.
+
+30. **Exceptional**
+
+Meaning: outstanding; unusually good
+* Example: She is an exceptional student.
+
+31. **Explicit**
+
+Meaning: very clear and direct; leaving no doubt
+* Example: The teacher gave explicit instructions.
+
+32. **Exquisite**
+
+Meaning: extremely beautiful or delicate
+*Example: The artist’s painting is exquisite.
+
+33. **Flawless**
+
+Meaning: perfect; without any mistakes
+* Example: Her performance was flawless.
+
+34. **Formidable**
+
+Meaning: strong, powerful, or impressive in a way that causes fear or respect
+* Example: He is a formidable opponent in chess.
+
+35. **Gripping**
+
+Meaning: very exciting or interesting; holding your attention
+* Example: The movie was so gripping that I couldn’t look away.
+
+36. **Heartwarming**
+
+Meaning: causing feelings of happiness and emotional warmth
+* Example: Their reunion after many years was heartwarming.
+
+37. **Immense**
+
+Meaning: extremely large; huge
+* Example: The stadium can hold an immense crowd.
+
+38. **Indispensable**
+
+Meaning: absolutely necessary; essential
+* Example: A good dictionary is indispensable for learning new words.
+
+39. **Intricate**
+
+Meaning: very detailed and complicated
+* Example: The watch has an intricate design.
+
+40. **Lucid**
+
+Meaning: clear and easy to understand
+* Example: Her explanation was so lucid that everyone understood.
+
